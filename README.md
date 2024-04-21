@@ -1,4 +1,4 @@
-# pw-gen
+# Simple password generator
 Run it and it will generate a 16 character pwassword, which then automatically gets copied to your clipboard.
 I've found it useful because, always opening the webbrowser to generate one or to generate one in Bitwarden (i.e.) takes way longer.
 SED file is attached, to eventually edit it.
